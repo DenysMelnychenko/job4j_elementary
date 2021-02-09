@@ -1,0 +1,9 @@
+package ru.job4j;
+
+public class StudentInfo {
+    public static void main(String[] args) {
+        System.out.println("Denys Melnychenko");
+        System.out.println("07.10.1989");
+    }
+
+}
